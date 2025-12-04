@@ -29,6 +29,7 @@ rd /s /q %TEMP%
 echo Temporary files deleted!
 pause
 ```
+Save as: CleanTemp.bat
 
 ### 2. WiFi Password Viewer
 Get stored WiFi passwords.
